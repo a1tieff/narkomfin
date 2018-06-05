@@ -1,0 +1,48 @@
+@media all and (max-width: 1340px) {
+  .sidebar {
+    display: none;
+  }
+}
+
+@media all and (max-width: 1020px) {
+  article img {
+    width: 100%;
+    margin: 80px 0;
+  }
+}
+
+@media all and (max-width: 740px) {
+  article {
+    width: 100%;
+    padding: 0 20px;
+  }
+}
+.gallery {
+  margin-left: -20px;
+}
+
+.galleryRail figure, .galleryRail img  {
+  width: 100%;
+  min-width: 100%;
+}
+
+.postsFeed {
+  padding-top: 60px;
+}
+
+.postsFeed a {
+  width: calc(100% - 40px);
+}
+
+.postsFeed figure {
+  width: 100px;
+  margin-bottom: 24px;
+}
+
+.postsFeed h2 {
+
+}
+
+.postsFeed p {
+
+}
